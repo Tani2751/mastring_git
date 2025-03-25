@@ -1,4 +1,4 @@
-## hello git !
+## welcom to git
 
-- I'm adding this from 'feature-branch'
+- this is coming from 'dev-tanish'
 - I'm testing, whether i understood the process.
