@@ -1,4 +1,4 @@
-## hello git !
+## hiiii everyone,
 
-- I'm adding this from 'feature-branch'
+- he this is goingv to cause conflict 
 - I'm testing, whether i understood the process.
